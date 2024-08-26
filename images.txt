@@ -1,5 +1,5 @@
 
-nacos/nacos-server:v2.3.2-slim
+rabbitmq:3.13.6-management
 
 #支持指定架构
---platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
+--platform=linux/amd64 rabbitmq:3.13.6-management
