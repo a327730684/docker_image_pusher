@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 mongo:7.0.11
+--platform=linux/amd64 mysql:5.7.43
