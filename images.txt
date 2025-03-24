@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 elasticsearch:8.11.3
+--platform=linux/amd64 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
